@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and Tools:</h3>
+<h3 align="left">🛠 Language and Tools :</h3>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h3 align="left">🔥 My Stats:</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
@@ -73,7 +73,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 My Socials:</h3>
+<h3 align="left">👩‍💻 My Socials :</h3>
 
 ###
 
@@ -97,7 +97,7 @@
 
 ###
 
-<h3 align="left">💁‍♂️ My Contributions:</h3>
+<h3 align="left">💁‍♂️ My Contributions :</h3>
 
 ###
 
