@@ -71,7 +71,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShivanshuShekhar.ShivanshuShekhar&left_text=Profile Views"  />
+  <img src="https://komarev.com/ghpvc/?username=shivanshushekhar&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshushekhar" />
 </div>
 
 ###
@@ -104,6 +104,6 @@
 
 ###
 
-![Snake animation](https://github.com/ShivanshuShekhar/ShivanshuShekhar/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/ShivanshuShekhar/ShivanshuShekhar/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
