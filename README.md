@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivanshu Shekhar</h1>
 <h3 align="center">A Full Stack Developer 👨‍💻</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshushekhar&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshushekhar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanshushekhar" alt="shivanshushekhar" /></a> </p>
 
 - 📫 How to reach me **shivanshushekhar786@gmail.com**
 
@@ -22,19 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshushekhar&show_icons=true&locale=en" alt="shivanshushekhar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshushekhar&" alt="shivanshushekhar" /></p>
-
-
-<!--
-**ShivanshuShekhar/ShivanshuShekhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
