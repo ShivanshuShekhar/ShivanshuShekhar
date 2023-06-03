@@ -81,7 +81,7 @@
   <a href="https://www.linkedin.com/in/shivanshushekhar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a href="shivanshushekhar786@gmail.com" target="_blank">
+  <a href="mailto:shivanshushekhar786@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/_.s.h.i.v.a.n.s.h.u._/" target="_blank">
@@ -94,13 +94,5 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
   </a>
 </div>
-
-###
-
-<h3 align="left">💁‍♂️ My Contributions :</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/ShivanshuShekhar/ShivanshuShekhar/output/snake.svg" alt="Snake animation" />
 
 ###
