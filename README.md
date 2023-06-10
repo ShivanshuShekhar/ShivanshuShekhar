@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Full Stack Developer 🌐 | Software Developer 💻</h3>
+
 
 ###
 
