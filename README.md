@@ -2,7 +2,7 @@
 
 ###
 
-
+<h3 align="center">Full Stack Developer 🌐 | Software Developer 💻</h3>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">✍️ Random Dev Quote :</h3>
+
 
 ###
 
