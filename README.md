@@ -12,17 +12,6 @@
 
 ###
 
-<h3 align="left">✍️ Random Dev Quote :</h3>
-
-###
-
-<div align="center">
-<!--   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="150" alt="random dev quote"  />
-</div>
-
-###
-
 <h3 align="left">🛠 Language and Tools :</h3>
 
 ###
